@@ -89,4 +89,7 @@ cargo build --release
 ./target/release/madara run
 
 
+#starkcompass explorer (optional). accessible at http://localhost:4000
+
+./target/release/madara explorer
 
