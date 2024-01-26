@@ -1,8 +1,10 @@
 
 #ubuntu 20.04
+
 #2cpu 4gb ram
 
 sudo apt update
+
 sudo apt upgrade
 
 #install git
