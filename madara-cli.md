@@ -3,6 +3,9 @@
 
 #2cpu 4gb ram
 
+
+screen -S madara
+
 sudo apt update
 
 sudo apt upgrade
